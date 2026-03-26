@@ -1,0 +1,32 @@
+📁 DOSSIER PHOTOS — Miss & Mister DefITech 2026
+================================================
+
+Ce dossier contient les photos des candidats.
+
+STRUCTURE :
+  photos/
+  ├── miss/
+  │   ├── m1_photo1.jpg   ← Photo 1 de Aïcha Koffi
+  │   ├── m1_photo2.jpg   ← Photo 2 de Aïcha Koffi
+  │   ├── m2_photo1.jpg   ← Photo 1 de Fatouma Diallo
+  │   ├── m2_photo2.jpg   ← Photo 2 de Fatouma Diallo
+  │   ├── m3_photo1.jpg   ← Photo 1 de Céleste Amouzou
+  │   ├── m3_photo2.jpg   ← Photo 2 de Céleste Amouzou
+  │   └── m4_photo1.jpg   ← Photo 1 de Nadia Soro
+  │   └── m4_photo2.jpg   ← Photo 2 de Nadia Soro
+  └── mister/
+      ├── r1_photo1.jpg   ← Photo 1 de Kofi Mensah
+      ├── r1_photo2.jpg   ← Photo 2 de Kofi Mensah
+      ├── r2_photo1.jpg   ← Photo 1 de Ibrahim Touré
+      ├── r2_photo2.jpg   ← Photo 2 de Ibrahim Touré
+      ├── r3_photo1.jpg   ← Photo 1 de Yannick Agbéko
+      ├── r3_photo2.jpg   ← Photo 2 de Yannick Agbéko
+      ├── r4_photo1.jpg   ← Photo 1 de Samir Ouédraogo
+      ├── r4_photo2.jpg   ← Photo 2 de Samir Ouédraogo
+      ├── r5_photo1.jpg   ← Photo 1 de Edem Tossou
+      ├── r5_photo2.jpg   ← Photo 2 de Edem Tossou
+      ├── r6_photo1.jpg   ← Photo 1 de Axel Dossou
+      └── r6_photo2.jpg   ← Photo 2 de Axel Dossou
+
+FORMATS ACCEPTÉS : JPG, PNG, WEBP
+CONSEIL : Photos carrées ou portrait (ratio 3:4) pour un meilleur rendu.
